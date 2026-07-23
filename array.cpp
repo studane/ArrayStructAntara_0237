@@ -40,7 +40,7 @@ int main()
     //Mengisi data melalui perulangan
     for (int i = 0; i <= 4; i++)
     {
-        cout << "Isikan data ke-" << (i + 10) << " : ";
+        cout << "Isikan data ke-" << (i + 1) << " : ";
         cin >> datamu [i];
     }
     cout << endl;
